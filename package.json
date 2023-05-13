@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react-scripts": "5.0.1",
+    "react-scripts": "5.0.1"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.5",
